@@ -1,7 +1,10 @@
 package com.cphelps76.demented;
 
 import android.app.Activity;
+import android.content.ActivityNotFoundException;
+import android.content.Intent;
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
