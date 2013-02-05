@@ -7,6 +7,6 @@
         <item>wallpaper_11</item>
     </string-array>
 
-    <!-- This wallpaper will be used when a user applies the theme -->
-    <string name="default_wallpaper">wallpaper_03</string>
+    <!-- This wallpaper will be used when a user applies the theme
+    <string name="default_wallpaper">wallpaper_03</string> -->
 </resources>
