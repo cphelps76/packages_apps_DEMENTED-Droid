@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cphelps76.demented"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="14" />
+
+    <application android:icon="@drawable/icon" android:label="@string/theme_title">
+        <activity android:name=".MainActivity" android:label="@string/theme_title">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="com.anddoes.launcher.THEME" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
