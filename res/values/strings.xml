@@ -2,21 +2,17 @@
 <resources>
 
     <!-- Basic theme information -->
-    <string name="theme_title">DEMENTED Droid Apex Theme</string>
+    <string name="theme_title">DEMENTED Apex Theme</string>
     <string name="developer_name">cphelps76</string>
     <!-- This (optional) link will appear at the end of the theme description -->
     <string name="developer_link">cphelps76@droidconcepts.com</string>
     <string name="theme_description">DEMENTED Droid theme for Apex Launcher</string>
 
     <!-- Theme settings -->
-    <bool name="config_iconpack">false</bool>
+    <bool name="config_iconpack">true</bool>
     <bool name="config_apexskin">true</bool>
 
     <!-- The feature graphic will appear above the theme description -->
     <string name="theme_feature">feature</string>
-
-    <!-- Each theme may have up to 5 preview images -->
-    <string name="theme_preview1">preview1</string>
-    <string name="theme_preview2">preview2</string>
 
 </resources>
