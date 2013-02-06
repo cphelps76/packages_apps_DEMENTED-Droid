@@ -2,7 +2,7 @@
 <resources>
 
     <!-- Basic theme information -->
-    <string name="theme_title">DEMENTED Apex Theme</string>
+    <string name="theme_title">DEMENTED</string>
     <string name="developer_name">cphelps76</string>
     <!-- This (optional) link will appear at the end of the theme description -->
     <string name="developer_link">cphelps76@droidconcepts.com</string>
