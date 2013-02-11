@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Provide a list of wallpaers 
+    <!-- Provide a list of wallpaers -->
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
         <item>wallpaper_03</item>
-        <item>wallpaper_11</item>
-    </string-array> -->
+        <item>wallpaper_04</item>
+	<item>wallpaper_05</item>
+	<item>wallpaper_06</item>
+	<item>wallpaper_07</item>
+	<item>wallpaper_08</item>
+	<item>wallpaper_09</item>
+	<item>wallpaper_10</item>
+	<item>wallpaper_11</item>
+	<item>wallpaper_12</item>
+	<item>wallpaper_13</item>
+	<item>wallpaper_14</item>
+	<item>wallpaper_15</item>
+	<item>wallpaper_16</item>
+	<item>wallpaper_17</item>
+	<item>wallpaper_18</item>
+	<item>wallpaper_19</item>
+	<item>wallpaper_20</item>
+	<item>wallpaper_21</item>
+	<item>wallpaper_22</item>
+	<item>wallpaper_23</item>
+	<item>wallpaper_24</item>
+	<item>wallpaper_25</item>
+	<item>wallpaper_26</item>
+	<item>wallpaper_27</item>
+    </string-array> 
 
-    <!-- This wallpaper will be used when a user applies the theme
-    <string name="default_wallpaper">wallpaper_03</string> -->
+    <!-- This wallpaper will be used when a user applies the theme -->
+    <string name="default_wallpaper">wallpaper_01</string>
 </resources>
